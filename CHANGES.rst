@@ -4,6 +4,11 @@ Changelog
 2.0.0 (tbd)
 -----------
 
+1.4.3rc03-24-2022 (__rc__)
+--------------------------
+
+- 8d821db Adding debug statement about compared versions
+
 1.4.2 (2020-10-10)
 ------------------
 
